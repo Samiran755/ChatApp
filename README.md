@@ -1,2 +1,2 @@
-#ChatApp
+# ChatApp
 It's a MongoDB project.
