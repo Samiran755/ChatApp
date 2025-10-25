@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(79, 215, 215);
+}
+
+.chat{
+    background-color:rgb(142, 200, 200);
+    border: 2px solid blue;
+    border-radius: 10px;
+    width: 300px;
+}
+p{
+    padding-left: 5px;
+}
+button{
+    margin: 0px 0px 5px 5px;
+    border-radius: 5px;
+    background-color: rgb(113, 154, 190)
+}
